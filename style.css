@@ -14,7 +14,7 @@ body {
   padding-bottom: 40px;
 }
 .welcome-note {
-  color: #888888;
+  color: black;
   padding: 5px;
   font-size: 20px;
 }
@@ -169,7 +169,7 @@ a {
   font-size: 18px;
   margin: .25em;
   font-family: 'Raleway', sans-serif;
-  color: #888888;
+  color: #666666;
 }
 u {
   text-decoration: 1px dashed #888888;
