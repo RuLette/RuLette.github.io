@@ -205,34 +205,7 @@ p {
   font-size: 16px;
   text-decoration: underline;
 }
-button {
-  display: flex;
-  justify-content: center;
-  width: 4em;
-  height: 2em;
-  border: none;
-  outline: none;
-  transition: transform .2s;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: contain;
-  margin: 1.5em;
-}
 
-button:hover {
-  cursor: pointer;
-  transform: scale(1.6);
-}
-
-.show-button {
-  margin-top: 20px;
-  background-image: url('./assets/chevron-down.png');
-  background-size: 15px;
-}
-
-.hide-button {
-  background-image: url('./assets/chevron-up.png');
-}
 
 .contact-writeup {
   margin: auto;

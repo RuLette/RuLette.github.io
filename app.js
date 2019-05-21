@@ -9,9 +9,4 @@ $('DOM content loaded', function() {
     }
   })
 
-  $('.project-content').hide()
-  $('button').click(function () {
-    $(this).prev('.project-content').slideToggle()
-    $(this).toggleClass('show-button hide-button')
-  })
 })
