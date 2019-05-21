@@ -265,13 +265,14 @@ ul {
   .section-image {
     display: none;
   }
-
   .navbar {
-    font-size: 16px;
+    margin: 0 auto;
+    width: 450px;
   }
+
   .navbar a {
-    padding: 10;
-    margin: 5px;
+    margin: 0;
+    font-size: 12px;
   }
 
   .project-name, .about-title, .project-title {
@@ -288,7 +289,11 @@ ul {
     justify-content: center;
   }
 
-  .devicons, .project-content {
+  .title-area, .contact-div, .skills-title {
+    margin-top: 40px;
+  }
+
+   .devicons, .project-content {
     margin: 0;
     padding: 20px;
   }
