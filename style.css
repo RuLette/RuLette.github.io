@@ -265,6 +265,7 @@ ul {
   .section-image {
     display: none;
   }
+
   .navbar {
     font-size: 16px;
   }
@@ -287,7 +288,7 @@ ul {
     justify-content: center;
   }
 
-  .about, .devicons, .contact-div, .project-content {
+  .devicons, .project-content {
     margin: 0;
     padding: 20px;
   }
