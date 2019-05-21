@@ -262,6 +262,9 @@ ul {
     padding: 0;
   }
 
+  .section-image {
+    display: none;
+  }
   .navbar {
     font-size: 16px;
   }
