@@ -77,7 +77,13 @@ body {
 .skills {
   width: 800px;
   margin: 0 auto;
+  padding: 60px 0;
 }
+
+.skills-divider {
+ padding: 16px 0;
+}
+
 .skills li {
   display: inline-block;
   width: 19%;
@@ -113,12 +119,12 @@ body {
 }
 
 .skills-title {
-padding-top: 60px;
 color: black;
 font-family: 'Raleway', sans-serif;
 text-align: center;
 font-size: 16px;
 text-decoration: underline;
+padding-bottom: 16px;
 }
 
 #hero {
